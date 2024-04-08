@@ -1,0 +1,25 @@
+{
+  "HomePage": {
+    "welcome_sentence": "Jouons !"
+  },
+  "LocaleSwitcher": {
+    "en": "Anglais",
+    "fr": "Francais"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "sales_contract": "CGV",
+    "GDPR": "RGPD",
+    "EULA": "CGU",
+    "legal_notice": "Mentions légales"
+  },
+  "ContactPage": {
+    "subscribe": "Abonne toi à notre newsletter !",
+    "contact": "Vous souhaitez nous contactez ?"
+  },
+  "PricingPage": {
+    "pricing_plans": "Abonnements",
+    "billing_year": "Facturation annuelle",
+    "billing_month": "Facturation mensuelle"
+  }
+}

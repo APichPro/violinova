@@ -1,0 +1,25 @@
+{
+  "HomePage": {
+    "welcome_sentence": "Let's play !"
+  },
+  "LocaleSwitcher": {
+    "en": "English",
+    "fr": "French"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "sales_contract": "Contract of sale",
+    "GDPR": "GDPR",
+    "EULA": "EULA",
+    "legal_notice": "Legal notice"
+  },
+  "ContactPage": {
+    "subscribe": "Subscribe to your newsletter !",
+    "contact": "Want to contact us ?"
+  },
+  "PricingPage": {
+    "pricing_plans": "Pricing Plans",
+    "billing_year": "Yearly billing",
+    "billing_month": "Monthly billing"
+  }
+}

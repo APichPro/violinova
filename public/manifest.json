@@ -1,0 +1,22 @@
+{
+  "name": "Violinova : Violin learning app",
+  "short_name": "Violinova",
+  "icons": [
+    {
+      "src": "/icons/logo.svg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/logo.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/?fullscreen=true",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
